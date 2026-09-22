@@ -1,0 +1,6 @@
+discord.py
+groq
+aiohttp
+numpy
+Flask
+gunicorn
